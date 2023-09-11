@@ -2,11 +2,11 @@
 Cryptanalysis in Action, by EC-Council
 
 # Structure of the Course Repository
-Section 2 Fundamentals of Cryptography and Terminology
-Section 3 Cryptographic Algorithms, including historical ciphers
-Section 4 Fundamentals of Cryptanalysis and Terminology
-Section 5 Cryptanalysis, Attacks Against Ciphers.
-Section 6 How to Use Cryptanalysis in Cybersecurity?
+Section 2 Fundamentals of Cryptography and Terminology<br>
+Section 3 Cryptographic Algorithms, including historical ciphers<br>
+Section 4 Fundamentals of Cryptanalysis and Terminology<br>
+Section 5 Cryptanalysis, Attacks Against Ciphers<br>
+Section 6 How to Use Cryptanalysis in Cybersecurity?<br>
 
 # Requirements
 This repository is a supporting material for the course content.
