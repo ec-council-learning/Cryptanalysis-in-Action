@@ -2,6 +2,7 @@
 Cryptanalysis in Action, by EC-Council
 
 # Structure of the Course Repository
+Setting up the environment
 Section 2 Fundamentals of Cryptography and Terminology<br>
 Section 3 Cryptographic Algorithms, including historical ciphers<br>
 Section 4 Fundamentals of Cryptanalysis and Terminology<br>
