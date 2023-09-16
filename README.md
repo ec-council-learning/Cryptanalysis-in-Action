@@ -1,6 +1,6 @@
 # Cryptanalysis-in-Action
 <p>Cryptanalysis in Action, by EC-Council<br>
-            &emspEmre Caglar Hosgor, Author</p>
+</t>Emre Caglar Hosgor, Author</p>
 
 # Structure of the Course Repository
 Setting up the environment<br>
